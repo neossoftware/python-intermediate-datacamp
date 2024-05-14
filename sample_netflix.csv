@@ -1,0 +1,101 @@
+ID,Pelicula,Fecha de Lanzamiento,Clasificacion,Duracion (min),anio_lanzamiento
+1,El Padrino,2007-02-25,R,127,2007
+2,Forrest Gump,2012-08-17,PG,164,2012
+3,La Lista de Schindler,2003-10-16,PG,172,2003
+4,El Señor de los Anillos: La Comunidad del Anillo,2022-09-10,PG-13,133,2022
+5,Titanic,1974-09-25,PG-13,145,1974
+6,Pulp Fiction,2021-09-08,R,149,2021
+7,El Rey León,2022-04-20,PG-13,89,2022
+8,El Caballero de la Noche,1994-05-24,PG,114,1994
+9,La La Land,2011-09-05,R,99,2011
+10,Toy Story,2000-08-19,R,100,2000
+11,Regreso al Futuro,2004-12-02,NC-17,136,2004
+12,El Silencio de los Corderos,1984-02-15,PG,136,1984
+13,Matrix,2018-05-28,PG,127,2018
+14,Ciudadano Kane,2007-11-11,PG,113,2007
+15,Volver al Futuro,2009-08-14,NC-17,69,2009
+16,El Gran Dictador,1978-06-20,PG,93,1978
+17,Gladiator,1979-10-21,R,80,1979
+18,La Vida es Bella,2005-03-22,PG-13,106,2005
+19,Harry Potter y la Piedra Filosofal,2002-07-03,PG-13,111,2002
+20,El Resplandor,1999-11-12,PG,145,1999
+21,El Club de la Pelea,2012-01-21,PG,163,2012
+22,Amélie,2005-01-26,PG-13,74,2005
+23,La Guerra de las Galaxias,1999-01-15,NC-17,162,1999
+24,Joker,1994-08-20,PG,78,1994
+25,El Señor de los Anillos: El Retorno del Rey,2006-09-18,PG-13,173,2006
+26,Los Siete Samuráis,2017-06-07,PG-13,151,2017
+27,La Naranja Mecánica,2000-05-25,PG-13,84,2000
+28,Interestelar,1984-08-07,PG,115,1984
+29,La Sociedad de los Poetas Muertos,1980-03-04,R,150,1980
+30,Ciudad de Dios,1975-04-06,NC-17,166,1975
+31,Casablanca,1982-07-07,PG-13,139,1982
+32,El Laberinto del Fauno,2000-07-10,PG-13,147,2000
+33,El Viaje de Chihiro,2012-06-03,R,144,2012
+34,El Gran Hotel Budapest,2016-01-06,PG,60,2016
+35,Psicosis,1994-02-15,NC-17,170,1994
+36,El Irlandés,1996-11-24,NC-17,87,1996
+37,La Roca,1999-04-08,PG,152,1999
+38,El Rey Arturo,1982-08-24,NC-17,72,1982
+39,Memento,1982-09-21,PG-13,119,1982
+40,Interstellar,2004-06-18,PG-13,152,2004
+41,Los Miserables,1984-04-18,NC-17,140,1984
+42,Shrek,2008-12-25,PG,141,2008
+43,Terminator 2: El Juicio Final,1976-03-10,PG,156,1976
+44,E.T. el Extraterrestre,1979-01-21,NC-17,175,1979
+45,Nemo,1987-10-29,PG-13,151,1987
+46,Wall-E,1999-03-11,NC-17,144,1999
+47,Buscando a Nemo,1988-05-20,NC-17,176,1988
+48,Up,1985-02-05,PG-13,150,1985
+49,Amor Sin Barreras,2003-07-18,PG,91,2003
+50,2001: Odisea del Espacio,2003-08-15,R,115,2003
+51,Blade Runner,2014-09-14,PG,137,2014
+52,Indiana Jones: En Busca del Arca Perdida,1998-04-22,NC-17,84,1998
+53,El Club de los Cinco,2023-07-19,R,158,2023
+54,La Princesa Mononoke,2008-01-15,NC-17,133,2008
+55,El Planeta de los Simios,1989-06-28,PG-13,164,1989
+56,Kill Bill,1984-03-19,PG-13,154,1984
+57,El Mago de Oz,2019-08-19,PG-13,62,2019
+58,Aladdin,1989-11-01,PG,165,1989
+59,Avatar,1979-04-30,PG,178,1979
+60,El Hombre Araña,1999-11-26,PG-13,81,1999
+61,12 Hombres en Pugna,2018-08-27,PG-13,100,2018
+62,Casino Royale,2001-05-14,PG,146,2001
+63,American History X,2007-07-13,NC-17,114,2007
+64,La Bella y la Bestia,2004-03-08,R,153,2004
+65,El Rescate del Soldado Ryan,1988-09-07,PG,72,1988
+66,La Delgada Línea Roja,2002-07-21,PG-13,133,2002
+67,La Historia Interminable,1998-07-01,PG,169,1998
+68,Los Cazafantasmas,1984-12-10,NC-17,94,1984
+69,Grease,1979-02-23,R,133,1979
+70,Scream,1988-02-04,PG,72,1988
+71,Superman,2015-01-05,PG-13,156,2015
+72,El Rey Arturo: La Leyenda de la Espada,1991-07-11,PG-13,62,1991
+73,Los Increíbles,1999-07-04,NC-17,124,1999
+74,Batman Begins,2006-02-03,PG-13,62,2006
+75,Bambi,2012-07-11,PG,95,2012
+76,Coco,1987-03-28,PG,129,1987
+77,Rápido y Furioso,1991-03-29,PG-13,108,1991
+78,El Exorcista,1993-03-02,R,129,1993
+79,El Show de Truman,1987-11-28,PG-13,89,1987
+80,El Último Samurai,2021-09-04,PG-13,168,2021
+81,El Cisne Negro,2013-11-18,NC-17,79,2013
+82,El Gran Torino,2000-08-25,PG,68,2000
+83,Lo que el Viento se Llevó,1990-02-06,PG-13,62,1990
+84,La Forma del Agua,2021-08-02,PG,102,2021
+85,La Pantera Rosa,2011-04-07,R,125,2011
+86,El Pianista,2000-12-07,NC-17,105,2000
+87,La Vida de Pi,1979-09-11,R,128,1979
+88,La Cenicienta,1997-07-25,R,172,1997
+89,El Árbol de la Vida,1983-10-01,PG-13,63,1983
+90,El Gran Lebowski,1987-07-28,PG-13,165,1987
+91,El Efecto Mariposa,1976-04-08,PG,173,1976
+92,Mary Poppins,2011-09-19,NC-17,70,2011
+93,La Dama y el Vagabundo,1978-11-19,NC-17,158,1978
+94,La Bella Durmiente,2014-03-29,R,118,2014
+95,Los Goonies,2005-10-29,NC-17,68,2005
+96,"El Bueno, el Malo y el Feo",2000-09-25,PG-13,163,2000
+97,El Abuelo Espía,1984-08-22,NC-17,129,1984
+98,El Mago de Oz,2022-10-13,NC-17,177,2022
+99,El Cascanueces y los Cuatro Reinos,1996-11-29,NC-17,80,1996
+100,El Guardián Invisible,2007-12-31,PG,91,2007
